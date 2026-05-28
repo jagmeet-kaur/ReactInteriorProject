@@ -4,9 +4,9 @@
 
 body {
   margin: 0;
-  font-family: 'Inter', 'Segoe UI', Roboto, Arial, sans-serif;
-  color: #1f2937;
-  background: #f4f4f2;
+  font-family: 'Poppins', 'Manrope', 'Inter', 'Segoe UI', Roboto, Arial, sans-serif;
+  color: #e5e7eb;
+  background: #0b1220;
 }
 
 #root {
